@@ -1,0 +1,1 @@
+1. Нельзя наследоваться от многих классов (class Lorry extends Car, Moveable, Stopable).
